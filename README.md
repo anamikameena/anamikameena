@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Anamika Meena - Full Stack Developer" width="100%"/>
+  <img src="./file:///C:/Users/Admin/OneDrive/Pictures/banner.svg" alt="Anamika Meena - Full Stack Developer" width="100%"/>
 </div>
 
 ---
