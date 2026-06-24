@@ -7,9 +7,8 @@
 ## 💫 About Me
 
 - 🎓 Final-year **Computer Science** student focused on full-stack web development
-- 🏅 **Microsoft Learn Student Ambassador (MLSA)**
 - 🔭 Currently building **MERN stack projects** and **AI-integrated web apps**
-- 🌱 Actively learning **Node.js + Express**, **MongoDB**, and sharpening **DSA in C++**
+- 🌱 Actively learning **Node.js + Express**, **MongoDB**, and sharpening **DSA**
 - 💬 Ask me about **React.js, JavaScript, Tailwind CSS, or anything frontend**
 - 🤝 Open to **internship opportunities** and **open-source collaborations**
 - ⚡ Fun fact: I debug more than I code — but that's where the *real* learning happens!
