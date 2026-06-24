@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anamikameena/anamikameena/main/banner.png" alt="Anamika Meena - Full Stack Developer" width="100%" length="60%"/>
+  <img src="https://raw.githubusercontent.com/anamikameena/anamikameena/main/banner.png" alt="Anamika Meena - Full Stack Developer" width="100%" length="40%"/>
 </div>
 
 ---
