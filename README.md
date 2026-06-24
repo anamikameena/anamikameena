@@ -44,7 +44,7 @@
 - 🐍 FastAPI backend for fast, lightweight API handling
 - 🔗 Full frontend-backend integration with REST API
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/anamikameena/BaislenAI)
+[![GitHub](https://img.shields.io/badge/View%20Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/anamikameena/BaislansAI)
 
 ---
 
